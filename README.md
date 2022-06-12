@@ -12,5 +12,6 @@
 
 ### RGB 회로도
 
+![화면 캡처 2022-06-13 061020](https://user-images.githubusercontent.com/102521625/173253747-daffb1e2-cb86-4985-bab7-21bda77b114f.jpg)
 
 
